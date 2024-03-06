@@ -33,7 +33,7 @@ for i in range(1, cols * rows + 1):
 plt.show()
 ```
 
-### Exercise 02.1
+### Exercise 02.2
 
 ```
 len(training_data)
