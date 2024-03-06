@@ -26,7 +26,9 @@ Click on a notebook above. After the notebook loads, click on the "Open in Colab
 [PyTorch Examples on GitHub](https://github.com/pytorch/examples)  
 [PyTorch on the Princeton Research Computing Clusters](https://researchcomputing.princeton.edu/support/knowledge-base/pytorch)  
 [Multi-GPU Training with PyTorch on the Princeton Research Computing Clusters](https://github.com/PrincetonUniversity/multi_gpu_training)  
-[Videos on YouTube by Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)
+[Videos on YouTube by Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)  
+[Intro to Deep Learning (MIT 6.S191)](http://introtodeeplearning.com/)  
+[Short Courses on deeplearning.ai](https://www.deeplearning.ai/short-courses/)  
 
 ### Getting Help
 
