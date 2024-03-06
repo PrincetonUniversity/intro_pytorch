@@ -33,4 +33,4 @@ If you encounter any difficulties with the material in this guide then please at
 
 ### Authorship
 
-This workshop was created by David Turner, Jonathan Halverson and members of Princeton Research Computing.
+The material in this repository is derived from the [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html). This workshop was created by David Turner, Jonathan Halverson and members of Princeton Research Computing.
