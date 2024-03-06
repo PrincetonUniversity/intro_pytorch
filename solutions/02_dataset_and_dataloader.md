@@ -42,6 +42,18 @@ len(training_data)
 60000
 ```
 
+Another approach is:
+
+```
+print(training_data)
+Dataset MNIST
+    Number of datapoints: 60000
+    Root location: data
+    Split: Train
+    StandardTransform
+Transform: ToTensor()
+```
+
 One could also do:
 
 ```
