@@ -114,7 +114,7 @@ def main():
     train_kwargs = {'batch_size': args.batch_size}
     test_kwargs = {'batch_size': args.test_batch_size}
     if use_cuda:
-        cuda_kwargs = {'num_workers': os.environ["SLURM_CPUS_PER_TASK"],
+        cuda_kwargs = {'num_workers': int(os.environ["SLURM_CPUS_PER_TASK"]),
                        'pin_memory': True,
                        'shuffle': True}
         train_kwargs.update(cuda_kwargs)
