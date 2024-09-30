@@ -33,6 +33,7 @@ Click on a notebook above. After the notebook loads, click on the "Open in Colab
 ### LLMs on Della
 [LLLM inference](https://github.com/benediktstroebl/della-inference)  
 [Hugging Face for Princeton Research Computing](https://researchcomputing.princeton.edu/support/knowledge-base/hugging-face)  
+[Multi-GPU Training](https://github.com/PrincetonUniversity/multi_gpu_training)  
 
 ### Getting Help
 
