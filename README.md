@@ -30,6 +30,10 @@ Click on a notebook above. After the notebook loads, click on the "Open in Colab
 [Intro to Deep Learning (MIT 6.S191)](http://introtodeeplearning.com/)  
 [Short Courses on deeplearning.ai](https://www.deeplearning.ai/short-courses/)  
 
+### LLMs on Della
+[LLLM inference](https://github.com/benediktstroebl/della-inference)  
+[Hugging Face for Princeton Research Computing](https://researchcomputing.princeton.edu/support/knowledge-base/hugging-face)  
+
 ### Getting Help
 
 If you encounter any difficulties with the material in this guide then please attend a <a href="https://researchcomputing.princeton.edu/education/help-sessions">help session</a> or submit a [support ticket](https://researchcomputing.princeton.edu/support/submit-ticket).
