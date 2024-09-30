@@ -64,3 +64,5 @@ training_data.data.shape
 ```
 
 We see that there are 60000 samples in the training data for MNIST. Remember to use `dir(training_data)` to see the available methods and attributes.
+
+There are 10000 samples in the test set.
