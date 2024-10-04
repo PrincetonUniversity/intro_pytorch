@@ -18,6 +18,8 @@ Click on a notebook above. After the notebook loads, click on the "Open in Colab
 6. [Optimization](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/06_optimization.ipynb)
 7. [Saving and Loading Models](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/07_saving_and_loading_models.ipynb)
 
+One can also replace `github.com` with `githubtocolab.com` in the URL to open the notebook in Google Colab.
+
 ### Learning Resources
 
 [PyTorch Website](https://pytorch.org)  
