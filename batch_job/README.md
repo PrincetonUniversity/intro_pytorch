@@ -11,7 +11,7 @@ $ cd intro_pytorch/batch_job
 The job will run on one of the compute nodes. The compute nodes do not have internet access so download the MNNIST dataset on the login node before submitting the job:
 
 ```
-$ module load anaconda3/2024.6
+$ module load anaconda3/2024.10
 $ conda activate /home/jdh4/.conda/envs/torch-env
 $ python download_mnist.py
 ```
