@@ -33,7 +33,9 @@ One can also replace `github.com` with `githubtocolab.com` in the URL to open th
 [Short Courses on deeplearning.ai](https://www.deeplearning.ai/short-courses/)  
 
 ### LLMs on Della
-[LLLM inference](https://github.com/benediktstroebl/della-inference)  
+[Princeton A.I. Sandbox](https://princeton.service-now.com/service?id=kb_article&sys_id=KB0014337)  
+[LLM inference](https://github.com/benediktstroebl/della-inference)  
+[Blackfish](https://princeton-ddss.github.io/blackfish/)  
 [Hugging Face for Princeton Research Computing](https://researchcomputing.princeton.edu/support/knowledge-base/hugging-face)  
 [Multi-GPU Training](https://github.com/PrincetonUniversity/multi_gpu_training)  
 
