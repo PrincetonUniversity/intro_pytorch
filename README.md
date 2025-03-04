@@ -27,6 +27,7 @@ One can also replace `github.com` with `githubtocolab.com` in the URL to open th
 [PyTorch - Learn the Basics](https://pytorch.org/tutorials/beginner/basics/intro.html)  
 [PyTorch Examples on GitHub](https://github.com/pytorch/examples)  
 [PyTorch on the Princeton Research Computing Clusters](https://researchcomputing.princeton.edu/support/knowledge-base/pytorch)  
+[Hands-On Introduction to Machine Learning Mini-Course](https://github.com/PrincetonUniversity/intro_machine_learning)  
 [Multi-GPU Training with PyTorch on the Princeton Research Computing Clusters](https://github.com/PrincetonUniversity/multi_gpu_training)  
 [Videos on YouTube by Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)  
 [Intro to Deep Learning (MIT 6.S191)](http://introtodeeplearning.com/)  
