@@ -8,7 +8,7 @@
 #SBATCH --time=00:05:00          # total run time limit (HH:MM:SS)
 
 module purge
-module load anaconda3/2024.10
+module load anaconda3/2025.6
 conda activate /home/jdh4/.conda/envs/torch-env  # CREATE YOUR OWN AFTER THE WORKSHOP
 
 python mnist_classify.py --epochs=3
