@@ -4,7 +4,7 @@
 
 This workshop will introduce participants to deep learning using [PyTorch](https://pytorch.org/). Learn the basic elements of a PyTorch script and see how to train a simple model using the MNIST hand-written digits dataset.
 
-For more PICSciE/RC workshops on machine learning see the [Spring 2025 line-up](https://researchcomputing.princeton.edu/learn/workshops-live-training).
+For more Research Computing workshops on machine learning see the [Fall 2025 program](https://researchcomputing.princeton.edu/learn/workshops-live-training).
 
 ### Run Notebooks Using Google Colab
 
