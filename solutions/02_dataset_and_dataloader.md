@@ -7,7 +7,7 @@ training_data = datasets.MNIST(
     root="data",
     train=True,
     download=True,
-    transform=ToTensor()
+    transform=v2.ToTensor()
 )
 labels_map = {
     0: "0",
