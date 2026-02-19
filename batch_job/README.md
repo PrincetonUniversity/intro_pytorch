@@ -4,6 +4,7 @@ Connect to Adroit and obtain the files:
 
 ```
 $ ssh <YourNetID>@adroit.princeton.edu
+$ cd /scratch/network/$USER
 $ git clone https://github.com/PrincetonUniversity/intro_pytorch
 $ cd intro_pytorch/batch_job
 ```
