@@ -38,3 +38,14 @@ After the job finishes, you can inspect the output:
 ```
 $ cat slurm-*.out
 ```
+
+The bottom of the output should be:
+
+```
+...
+Train Epoch: 3 [58240/60000 (97%)]	Loss: 0.023558
+Train Epoch: 3 [58880/60000 (98%)]	Loss: 0.055956
+Train Epoch: 3 [59520/60000 (99%)]	Loss: 0.018880
+
+Test set: Average loss: 0.0308, Accuracy: 9901/10000 (99%)
+```
