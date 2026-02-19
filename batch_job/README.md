@@ -25,6 +25,12 @@ Submit the job to the Slurm scheduler:
 $ sbatch job.slurm
 ```
 
+Monitor the progress of the job with (PD is pending, R is running):
+
+```
+$ squeue --me
+```
+
 After the job finishes, you can inspect the output:
 
 ```
