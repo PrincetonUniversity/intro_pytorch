@@ -12,7 +12,8 @@ device(type='cpu')
 Move it to the GPU:
 
 ```
-mytensor.to(torch.accelerator.current_accelerator())
+device = torch.accelerator.current_accelerator()
+mytensor.to(device)
 ```
 
 ### Exercise 01.2
