@@ -25,11 +25,13 @@ Submit the job to the Slurm scheduler:
 $ sbatch job.slurm
 ```
 
-Monitor the progress of the job with (PD is pending, R is running):
+Monitor the progress of the job:
 
 ```
 $ squeue --me
 ```
+
+If the command above lists your job then know that for the `ST` column (which is state) `PD` is pending and `R` is running. If the job is not listed then it either finished successfully or failed.
 
 After the job finishes, you can inspect the output:
 
