@@ -9,6 +9,12 @@ mytensor.device
 device(type='cpu')
 ```
 
+Move it to the GPU:
+
+```
+mytensor.to(torch.accelerator.current_accelerator())
+```
+
 ### Exercise 01.2
 
 ```
