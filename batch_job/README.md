@@ -21,10 +21,8 @@ In this example, a pre-installed Conda environment by user `jdh4` is being used.
 Submit the job to the Slurm scheduler:
 
 ```
-$ sbatch --reservation=pytorch job.slurm
+$ sbatch job.slurm
 ```
-
-Note: After the workshop remove `--reservation=pytorch` since it no longer applies.
 
 After the job finishes, you can inspect the output:
 
