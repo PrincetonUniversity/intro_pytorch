@@ -119,7 +119,7 @@ def main():
         test_kwargs.update(accel_kwargs)
 
     transform=v2.Compose([
-        v2.ToTensor(),
+        v2.Compose([v2.ToImage(), v2.ToDtype(torch.float32, scale=True)]),
         v2.Normalize((0.1307,), (0.3081,))
         ])
     dataset1 = datasets.MNIST('./data', train=True, download=False,
