@@ -32,6 +32,7 @@ One can also replace `github.com` with `githubtocolab.com` in the URL to open th
 [Videos on YouTube by Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)  
 [Intro to Deep Learning (MIT 6.S191)](http://introtodeeplearning.com/)  
 [Short Courses on deeplearning.ai](https://www.deeplearning.ai/short-courses/)  
+[TensorFlow Playground](https://playground.tensorflow.org/)  
 
 ### LLMs on Della and Other Systems
 [Resources and Tips for Machine Learning Researchers at Princeton](https://docs.google.com/document/d/14IloLKCD0B9ntafkgflz8d738gEz4kCseMfjQp7hjYs/edit?tab=t.0#heading=h.8twdhdkhucmp)  
