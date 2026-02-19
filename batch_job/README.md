@@ -1,6 +1,6 @@
 # Example of Running a PyTorch Job on Adroit
 
-Connect to Adroit and obtain the files:
+Connect to Adroit and obtain the files (for account submit [this form](https://forms.rc.princeton.edu/registration/?q=adroit)):
 
 ```
 $ ssh <YourNetID>@adroit.princeton.edu
