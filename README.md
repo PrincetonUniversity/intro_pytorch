@@ -4,7 +4,7 @@
 
 This workshop will introduce participants to deep learning using [PyTorch](https://pytorch.org/). Learn the basic elements of a PyTorch script and see how to train a simple model using the MNIST hand-written digits dataset.
 
-For more Research Computing workshops on machine learning see the [Fall 2025 program](https://researchcomputing.princeton.edu/learn/workshops-live-training).
+For more Research Computing workshops on machine learning see the [Spring 2026 program](https://researchcomputing.princeton.edu/learn/workshops-live-training).
 
 ### Run Notebooks Using Google Colab
 
@@ -33,7 +33,7 @@ One can also replace `github.com` with `githubtocolab.com` in the URL to open th
 [Intro to Deep Learning (MIT 6.S191)](http://introtodeeplearning.com/)  
 [Short Courses on deeplearning.ai](https://www.deeplearning.ai/short-courses/)  
 
-### LLMs on Della
+### LLMs on Della and Other Systems
 [Resources and Tips for Machine Learning Researchers at Princeton](https://docs.google.com/document/d/14IloLKCD0B9ntafkgflz8d738gEz4kCseMfjQp7hjYs/edit?tab=t.0#heading=h.8twdhdkhucmp)  
 [Wintersession 2025 Workshop Materials from Princeton Language and Intelligence](https://drive.google.com/drive/folders/1I-pENLfGT96VvC7AODv2exYxuhMXZzy4?usp=sharing)  
 [Princeton A.I. Sandbox](https://princeton.service-now.com/service?id=kb_article&sys_id=KB0014337)  
