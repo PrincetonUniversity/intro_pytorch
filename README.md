@@ -10,13 +10,13 @@ For more Research Computing workshops on machine learning see the [Fall 2026 pro
 
 Click on a notebook above. After the notebook loads, click on the "Open in Colab" button. Run the cells. If you encounter the message "Warning: This notebook was not authored by Google" then choose "Run anyway".
 
-1. [Tensors](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/01_tensors.ipynb)
-2. [Dataset and Dataloader](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/02_dataset_and_dataloader.ipynb)
-3. [Transforms](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/03_transforms.ipynb)
-4. [Building the Neural Network](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/04_building_the_neural_network.ipynb)
-5. [Autograd](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/05_autograd.ipynb)
-6. [Optimization](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/06_optimization.ipynb)
-7. [Saving and Loading Models](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/07_saving_and_loading_models.ipynb)
+1. (Ctrl+Click / Cmd+Click) [Tensors](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/01_tensors.ipynb)
+2. (Ctrl+Click / Cmd+Click) [Dataset and Dataloader](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/02_dataset_and_dataloader.ipynb)
+3. (Ctrl+Click / Cmd+Click) [Transforms](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/03_transforms.ipynb)
+4. (Ctrl+Click / Cmd+Click) [Building the Neural Network](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/04_building_the_neural_network.ipynb)
+5. (Ctrl+Click / Cmd+Click) [Autograd](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/05_autograd.ipynb)
+6. (Ctrl+Click / Cmd+Click) [Optimization](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/06_optimization.ipynb)
+7. (Ctrl+Click / Cmd+Click) [Saving and Loading Models](https://colab.research.google.com/github/PrincetonUniversity/intro_pytorch/blob/main/07_saving_and_loading_models.ipynb)
 
 One can also replace `github.com` with `githubtocolab.com` in the URL to open the notebook in Google Colab.
 
